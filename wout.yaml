@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: spotify
+  name: woutapi
   description: The Wout API
   tags:
     - wout
