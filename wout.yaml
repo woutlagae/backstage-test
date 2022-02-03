@@ -2,10 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: spotify
-  description: The Spotify web API
+  description: The Wout API
   tags:
-    - spotify
-    - rest
+    - wout
   annotations:
     # The annotation is deprecated, we use placeholders (see below) instead, remove it later.
     backstage.io/definition-at-location: 'url:https://raw.githubusercontent.com/APIs-guru/openapi-directory/master/APIs/spotify.com/v1/swagger.yaml'
