@@ -6,6 +6,5 @@ metadata:
 spec:
   targets:
     - ./wout.yaml
-    - ./testapi.yaml
     - ./wout222.yaml
     
