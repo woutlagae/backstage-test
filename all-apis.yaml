@@ -5,6 +5,4 @@ metadata:
   description: A collection of all Backstage example APIs
 spec:
   targets:
-    - ./wout.yaml
-    - ./wout222.yaml
-    
+    - ./wout222.yaml    
